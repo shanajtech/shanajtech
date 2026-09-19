@@ -79,21 +79,6 @@ More polished projects and live demos are being added as I continue building.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanajtech&show_icons=true&theme=radical" alt="Shanaj's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shanajtech&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanajtech&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
