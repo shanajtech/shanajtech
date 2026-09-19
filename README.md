@@ -19,7 +19,8 @@ I’m open to **freelance projects, collaborations, and frontend development opp
 - 🤝 Open to freelance work and frontend collaborations
 - 💬 Ask me about HTML, CSS, JavaScript, React, and Responsive Web Design
 - 🎯 Interested in building real-world web applications and solving practical problems
-- 📍 Bangladesh
+- 🏠 Based in Bangladesh
+- ⚡ Fun fact: I love building clean and responsive UIs
 
 ---
 
