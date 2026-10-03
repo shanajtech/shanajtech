@@ -52,31 +52,6 @@ I’m open to **freelance projects, collaborations, and frontend development opp
 
 ---
 
-## 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vue,vite,nodejs,bootstrap,git,github,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shanajtech&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Shanaj Akter's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanajtech&layout=compact&hide_border=true&theme=github_dark"
-    alt="Shanaj Akter's Most Used Languages"
-    height="180"
-  />
-</p>
-
----
-
 ## 🚀 Currently Working On
 
 - Strengthening JavaScript fundamentals and problem-solving
@@ -104,6 +79,7 @@ More polished projects and live demos are being added as I continue building.
 
 ---
 
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanajtech/)
@@ -118,4 +94,4 @@ More polished projects and live demos are being added as I continue building.
 
 I’m open to freelance frontend development projects, collaborations, and opportunities where I can build responsive and user-friendly web experiences.
 
-⭐ Feel free to explore my repositories and follow my development journey.
+⭐ Feel free to explore my repositories and follow my development journey.   Ami amar ai readme file e ai language r github state add korte chai add kore ready kore code dew
