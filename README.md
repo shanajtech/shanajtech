@@ -1,22 +1,27 @@
-<h1 align="center">Hi  I'm Shanaj Akter</h1>
+<h1 align="center">Hi 👋, I'm Shanaj Akter</h1>
+
+<h3 align="center">Frontend Developer | React Developer</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer+%26+React+Developer;I+Turn+Ideas+%26+Designs+Into+Web+Experiences;Building+Clean+%26+User-Friendly+Interfaces;Let's+Build+Something+Amazing+Together+🚀"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+coding+world!;I+turn+ideas+into+modern+web+experiences.;I+build+clean+and+user-friendly+interfaces.;Have+a+project+in+mind%3F+Let's+build+it+together!"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  I build clean, modern, and user-friendly frontend experiences using
-  <strong>JavaScript, React, Vue.js, Tailwind CSS</strong> and modern web technologies.
+  <strong>
+    I build modern frontend experiences with JavaScript, React, Vue.js & Tailwind CSS.
+  </strong>
 </p>
 
 <p align="center">
-  💼 Open to Freelance Projects &nbsp; • &nbsp; 🌍 Remote Opportunities &nbsp; • &nbsp; 🤝 Collaborations
+  💼 Open to Freelance Projects &nbsp; | &nbsp;
+  🌍 Remote Opportunities &nbsp; | &nbsp;
+  🤝 Collaborations
 </p>
 
----
+<hr>
 
 ##  About Me
 
