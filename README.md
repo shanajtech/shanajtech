@@ -129,6 +129,7 @@ A React-based blood donation frontend application designed to make donor searchi
 
 **Tech:** React • JavaScript • React Router • Tailwind CSS • Vite
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://blood-donation-web-app-r5p7.vercel.app/)
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shanajtech/BloodConnect)
 
 ---
@@ -165,6 +166,7 @@ A React frontend application featuring a multi-page interface for NEIR-related i
 
 **Tech:** React • JavaScript • React Router • Tailwind CSS • Vite
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://shanajtech.github.io/NEIR-Smart-Assistant/)
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shanajtech/NEIR-Smart-Assistant)
 
 ---
